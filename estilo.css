@@ -1,0 +1,36 @@
+body{
+    background-image: url("img/banner.jpg");
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+header{
+    color: rgb(10, 10, 241);
+    background-color: coral;
+    text-transform: uppercase;
+}
+
+section{
+    color:darkblue;
+}
+
+.importante{
+    background-color: darkcyan;
+}
+
+.secundaria{
+    background-color: darkgray;
+}
+
+.terciaria{
+    background-color: darkgreen;
+}
+
+#titulo{
+    font-size: 100px;
+}
+
+
+
